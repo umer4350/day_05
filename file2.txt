@@ -1,0 +1,2 @@
+this is file 2 that created by other branch
+if you swictch into other file before commit, remember do git stash
